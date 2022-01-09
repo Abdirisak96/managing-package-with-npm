@@ -1,6 +1,10 @@
 {
+	"description": "I want to improve on my backend knowledge from what i already have learned",
 	"author": "Abdirisak Mohamed",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["freecodecamp", "learn to code backend", "improve my knowledge"],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
